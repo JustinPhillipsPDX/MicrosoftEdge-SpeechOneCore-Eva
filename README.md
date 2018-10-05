@@ -3,6 +3,8 @@ A .reg file that adds the selection of Microsoft Eva to Microsoft Edge's Read al
 
 ![annotation](https://user-images.githubusercontent.com/29287158/46510559-9a59d800-c7fe-11e8-87e4-dd91a8ecee84.png)
 
+## .reg File Contents
+
 ```
 Windows Registry Editor Version 5.00
 ```
