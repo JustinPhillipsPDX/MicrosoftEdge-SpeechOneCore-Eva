@@ -9,7 +9,7 @@ A .reg file that adds the selection of Microsoft Eva (**Cortana**'s voice) to Mi
 Windows Registry Editor Version 5.00
 ```
 
-[HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\Children\001\Software\Microsoft\Speech_OneCore\Isolated\ **[CHANGE/CHECK REGISTRY EDITOR FOR FOLDER NAME]** \HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech_OneCore\Voices\Tokens\MSTTS_V110_enUS_EvaM]
+[HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\Children\001\Software\Microsoft\Speech_OneCore\Isolated\ **[[UPDATE WITH LAST KEY ENTRY FROM REGISTRY EDITOR]]** \HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech_OneCore\Voices\Tokens\MSTTS_V110_enUS_EvaM]
 
 ```
 @="Microsoft Eva - English (United States)"
@@ -18,7 +18,7 @@ Windows Registry Editor Version 5.00
 "409"="Microsoft Eva - English (United States)"
 "CLSID"="{179F3D56-1B0B-42B2-A962-59B7EF59FE1B}"
 ```
-[HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\Children\001\Software\Microsoft\Speech_OneCore\Isolated\ **[CHANGE/CHECK REGISTRY EDITOR FOR FOLDER NAME]** \HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech_OneCore\Voices\Tokens\MSTTS_V110_enUS_EvaM\Attributes]
+[HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\Children\001\Software\Microsoft\Speech_OneCore\Isolated\ **[[UPDATE WITH LAST KEY ENTRY FROM REGISTRY EDITOR]]** \HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech_OneCore\Voices\Tokens\MSTTS_V110_enUS_EvaM\Attributes]
 
 ```
 "Version"="11.0"
