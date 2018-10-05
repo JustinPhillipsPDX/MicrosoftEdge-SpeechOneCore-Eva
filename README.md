@@ -4,11 +4,15 @@ A .reg file that adds the selection of Microsoft Eva (**Cortana**'s voice) to Mi
 ![annotation](https://user-images.githubusercontent.com/29287158/46510559-9a59d800-c7fe-11e8-87e4-dd91a8ecee84.png)
 
 ## Installation
-Once downloaded, you will need to edit the .reg file using the text editor of your choice. Change the **Key Name**s within the **HKEY_CURRENT_USER** path for both **Tokens\MSTTS_V110_enUS_EvaM** and **Tokens\MSTTS_V110_enUS_EvaM\Attributes** to match Edge's current installation. You can find the **Key Name**s by opening Registry Editor selecting **HKEY_CURRENT_USER** and then pressing **Ctrl+F**. Search for "**MSTTS_V110_enUS_DavidM**" while selecting Look at: "**Keys**" and "**Match whole string only**". Next, press **F3** to cycle through "**Find Next**" until you locate **microsoft.microsoftedge_[version number]** (my version was **microsoft.microsoftedge_8wekyb3d8bbwe**, if your version is different you need to update this **Key Name** in the .reg file **HKEY_CURRENT_USER** paths).
+Once downloaded, you will need to edit the .reg file using the text editor of your choice. Change the **Key Name**s within the **HKEY_CURRENT_USER** path for both **Tokens\MSTTS_V110_enUS_EvaM** and **Tokens\MSTTS_V110_enUS_EvaM\Attributes** to match Edge's current installation. 
 
-![01](https://user-images.githubusercontent.com/29287158/46512547-60420380-c809-11e8-80f1-c747462d53f2.PNG)
+![01](https://user-images.githubusercontent.com/29287158/46514618-cf245a00-c813-11e8-9997-e66b5c84a9cb.PNG)
+
+You can find the **Key Name**s by opening Registry Editor selecting **HKEY_CURRENT_USER** and then pressing **Ctrl+F**. Search for "**MSTTS_V110_enUS_DavidM**" while selecting Look at: "**Keys**" and "**Match whole string only**". 
 
 ![02](https://user-images.githubusercontent.com/29287158/46512851-df840700-c80a-11e8-9bcd-5161ba4c09fe.PNG)
+
+Next, press **F3** to cycle through "**Find Next**" until you locate **microsoft.microsoftedge_[version number]** (my version was **microsoft.microsoftedge_8wekyb3d8bbwe**, if your version is different you need to update this **Key Name** in the .reg file **HKEY_CURRENT_USER** paths).
 
 In this example I want to copy the last *Isolated* **Key Name** of "**k6BwW5fty3XWMlmQDjzUq77TXIsLVjJGt268p8btklc**" into the .reg file
 
