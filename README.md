@@ -1,5 +1,5 @@
 # MicrosoftEdge-SpeechOneCore-Eva
-Improve Microsoft Edge's Read aloud voice selection options by adding Microsoft Eva (**Cortana**'s voice) to Read aloud's voices dropdown list.
+Improve Microsoft Edge's Read aloud voice selection options by adding Microsoft Eva (**Cortana**'s voice) to Read aloud's voice dropdown list.
 
 ![annotation](https://user-images.githubusercontent.com/29287158/46510559-9a59d800-c7fe-11e8-87e4-dd91a8ecee84.png)
 
