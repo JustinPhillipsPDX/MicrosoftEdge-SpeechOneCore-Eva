@@ -4,7 +4,7 @@ A .reg file that adds the selection of Microsoft Eva (**Cortana**'s voice) to Mi
 ![annotation](https://user-images.githubusercontent.com/29287158/46510559-9a59d800-c7fe-11e8-87e4-dd91a8ecee84.png)
 
 ## Installation
-After downloaded the .reg file you will need to edit the file using a text editor of your choice. Change the KEYs within the **HKEY_CURRENT_USER** paths for both *Tokens* key and the *Tokens* *Attributes* key to match Edge's current installation. You can find the KEY Names by opening Registry Editor selecting **HKEY_CURRENT_USER** and then pressing **Ctrl+F**. Search for "**MSTTS_V110_enUS_DavidM**" while selecting Look at: "**Keys**" along with "**Match whole string only**". Next, press **F3** (if applicatble) to cycle through "**Find Next**" until you locate **microsoft.microsoftedge_[version number]** (my version was **microsoft.microsoftedge_8wekyb3d8bbwe**, if your version is different you will need to update it in the .reg file).
+Once downloaded, you will need to edit the .reg file using the text editor of your choice. Change the *Key Name*s within the **HKEY_CURRENT_USER** path for both **Tokens\MSTTS_V110_enUS_EvaM** and **Tokens\MSTTS_V110_enUS_EvaM\Attributes** to match Edge's current installation. You can find the *Key Name*s by opening Registry Editor selecting **HKEY_CURRENT_USER** and then pressing **Ctrl+F**. Search for "**MSTTS_V110_enUS_DavidM**" while selecting Look at: "**Keys**" and "**Match whole string only**". Next, press **F3** to cycle through "**Find Next**" until you locate **microsoft.microsoftedge_[version number]** (my version was **microsoft.microsoftedge_8wekyb3d8bbwe**, if your version is different you need to update this *Key Name* in the .reg file **HKEY_CURRENT_USER** paths).
 
 ![01](https://user-images.githubusercontent.com/29287158/46512547-60420380-c809-11e8-80f1-c747462d53f2.PNG)
 
@@ -26,7 +26,7 @@ Click **OK**.
 
 ![06](https://user-images.githubusercontent.com/29287158/46513618-4ce56700-c80e-11e8-8133-99a55787e675.PNG)
 
-Finally, you can verify the new Key entries in Registry Editor. Open Edge and right-click on a page select **Read aloud**, go into the upper right corner settings and select **Microsoft Eva - English (United States)** from voices.
+Finally, you can verify the new **Key Name** entries in Registry Editor. Open Edge and right-click on a page select **Read aloud**, go into the upper right corner settings and select **Microsoft Eva - English (United States)** from voices.
 
 ![annotation](https://user-images.githubusercontent.com/29287158/46510559-9a59d800-c7fe-11e8-87e4-dd91a8ecee84.png)
 
