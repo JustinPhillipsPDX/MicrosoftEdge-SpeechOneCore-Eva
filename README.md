@@ -14,9 +14,9 @@ You can find the **Key Name**s by opening Registry Editor selecting **HKEY_CURRE
 
 Next, press **F3** to cycle through "**Find Next**" until you locate **microsoft.microsoftedge_[version number]** (my version was **microsoft.microsoftedge_8wekyb3d8bbwe**, if your version is different you need to update this **Key Name** in the .reg file **HKEY_CURRENT_USER** paths).
 
-In this example I want to copy the last *Isolated* **Key Name** of "**k6BwW5fty3XWMlmQDjzUq77TXIsLVjJGt268p8btklc**" into the .reg file
-
 ![03](https://user-images.githubusercontent.com/29287158/46513242-90d76c80-c80c-11e8-8cbf-5f9a45c16653.PNG)
+
+In this example, I want to copy the last *Isolated* **Key Name** of "**k6BwW5fty3XWMlmQDjzUq77TXIsLVjJGt268p8btklc**" into the .reg file.
 
 Once the versions have been updated in the **HKEY_CURRENT_USER** paths, save and double click the .reg file to install.
 
