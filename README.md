@@ -26,7 +26,7 @@ Click **OK**.
 
 ![06](https://user-images.githubusercontent.com/29287158/46513618-4ce56700-c80e-11e8-8133-99a55787e675.PNG)
 
-Finally, you can verify the new **Key Name** entries in Registry Editor. Open Edge and right-click on a page select **Read aloud**, go into the upper right corner settings and select **Microsoft Eva - English (United States)** from voices.
+Finally, you can verify the new **Key Name** entries in Registry Editor. Open Edge and right-click on a page select **Read aloud**, go into the upper right corner settings and select **Microsoft Eva - English (United States)** from the voices selection list.
 
 ![annotation](https://user-images.githubusercontent.com/29287158/46510559-9a59d800-c7fe-11e8-87e4-dd91a8ecee84.png)
 
